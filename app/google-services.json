@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "17701890142",
+    "firebase_url": "https://topfood-b507b.firebaseio.com",
+    "project_id": "topfood-b507b",
+    "storage_bucket": "topfood-b507b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17701890142:android:d4f56b6d77429090",
+        "android_client_info": {
+          "package_name": "edu.monash.topfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17701890142-hbj66pmapisvg90mpggp6b506n2132cq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.monash.topfood",
+            "certificate_hash": "c5ee12a97aee5a89ea8300f7f03f852e506cf058"
+          }
+        },
+        {
+          "client_id": "17701890142-77rqsc9j2up4178uvcdfronmig2fo36j.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "17701890142-77rqsc9j2up4178uvcdfronmig2fo36j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjj5Xoh7nCIKwnhWJq0hZISQqdL8NVhZ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17701890142-77rqsc9j2up4178uvcdfronmig2fo36j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
